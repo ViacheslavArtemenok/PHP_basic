@@ -66,7 +66,7 @@ h3 { font-size: 1.7em; font-weight: normal; margin: 0 0 20px; }
 	?>
 	<div id="content">
 		<h1><?php 
-		echo $title; ///4.
+		echo $title; //4.
 		?></h1>
 		
 		<ul id="menu">
